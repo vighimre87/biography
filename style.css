@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(20, 77, 80);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+li {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+.mainHeading {
+    font-style: italic;
+}
+
+.firstDiv {
+    box-shadow: 5px 10px 5px red;
+}
